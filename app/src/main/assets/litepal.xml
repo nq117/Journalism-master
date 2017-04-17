@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="Journalism-master" ></dbname>
+
+    <version value="1" ></version>
+
+    <list>
+        <mapping class="com.example.nq.journalism_master.database.News"></mapping>
+        <mapping class="com.example.nq.journalism_master.database.Video"></mapping>
+    </list>
+</litepal>

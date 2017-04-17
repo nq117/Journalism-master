@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ce3d3a</color>
+    <color name="colorPrimaryDark">#ce3d3a</color>
+    <color name="colorAccent">#ce3d3a</color>
+
+    <color name="important_text_size">#333333</color> //重要文字选择
+    <color name="link_text_size">#477aac</color> //链接文字
+    <color name="ordinary_text_size">#666666</color> //普通文字
+    <color name="auxiliary_text_size">#888888</color> //辅助文字
+
+    <color name="content_text_size">#f2f4f5</color> //内容区
+    <color name="tablayout">#FFF</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="light_gray">#9A9A9A</color>
+    <color name="separate_line">#c7c7c7</color>
+</resources>

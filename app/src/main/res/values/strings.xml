@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">新闻资讯</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="nav_home">首页</string>
+    <string name="nav_bookmarks">视频</string>
+    <string name="notice_title">标题</string>
+    <string name="comm_cancel">取消</string>
+    <string name="comm_comfirm">确认</string>
+
+    <!--main menu-->
+    <string name="change_theme">清除缓存</string>
+    <string name="settings">问题反馈</string>
+    <string name="about">关于我们</string>
+    <string name="action_settings">设置</string>
+    <string name="clear">清除缓存</string>
+
+    <string name="zhihu_daily">知乎日报</string>
+    <string name="guokr_handpick">果壳精选</string>
+    <string name="douban_moment">豆瓣一刻</string>
+
+    <string name="loading_more">正在加载...</string>
+    <string name="clicktoretry">点击重试</string>
+
+
+    <string name="network_error">网络走丢了…点击重试</string>
+    <string name="author">小组成员名单</string>
+
+    <string name="xt"><u>徐涛</u></string>
+    <string name="xt_college">http://www.worlduc.com/SpaceShow/index.aspx?uid=2742501</string>
+    <string name="fy"><u>凡勇</u></string>
+    <string name="fy_college">http://www.worlduc.com/SpaceShow/index.aspx?uid=2742470</string>
+    <string name="nq"><u>NQ</u></string>
+    <string name="nq_college">http://www.worlduc.com/SpaceShow/index.aspx?uid=569871</string>
+</resources>
