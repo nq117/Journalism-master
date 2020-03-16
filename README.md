@@ -1,4 +1,4 @@
-# Journalism-master
+# Journalism
 # 简介
 
 ---
